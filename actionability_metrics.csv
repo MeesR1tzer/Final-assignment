@@ -1,0 +1,3 @@
+Method,Mean features for sufficiency,Metric
+SHAP,7.3,Min top-k for 90% score
+CEM (PP),5.0,L1-regularized optimization
